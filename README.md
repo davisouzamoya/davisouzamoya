@@ -24,6 +24,7 @@ If you want discovery about me see my linkedin
     <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
 </br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisouzamoya&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
